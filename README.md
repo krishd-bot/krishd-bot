@@ -103,7 +103,7 @@
 ---
 
 ## 📈 GitHub Stats
-## 📊 GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishd-bot&show_icons=true&theme=tokyonight)
 
@@ -113,7 +113,7 @@
 
 ## 🤝 Connect With Me
 
-* LinkedIn: Your LinkedIn URL
+* LinkedIn: https://www.linkedin.com/in/deepak-pandey-782899290/
 * Portfolio: Coming Soon
 * GitHub: https://github.com/krishd-bot
 
